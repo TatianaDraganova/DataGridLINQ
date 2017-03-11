@@ -1,0 +1,14 @@
+D:\TDr\DataGridLINQ\DataGridLINQ\bin\Debug\DataGridLINQ.exe.config
+D:\TDr\DataGridLINQ\DataGridLINQ\bin\Debug\DataGridLINQ.exe
+D:\TDr\DataGridLINQ\DataGridLINQ\bin\Debug\DataGridLINQ.pdb
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\DataGridLINQ.csprojResolveAssemblyReference.cache
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\MainWindow.g.cs
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\App.g.cs
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\DataGridLINQ_MarkupCompile.cache
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\DataGridLINQ_MarkupCompile.lref
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\MainWindow.baml
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\DataGridLINQ.g.resources
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\DataGridLINQ.Properties.Resources.resources
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\DataGridLINQ.csproj.GenerateResource.Cache
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\DataGridLINQ.exe
+D:\TDr\DataGridLINQ\DataGridLINQ\obj\Debug\DataGridLINQ.pdb
