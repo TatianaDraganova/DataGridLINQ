@@ -37,8 +37,14 @@ namespace DataGridLINQ
 					ticket.FirstName,
 					ticket.SecondName,
 					Source = ticket.City.Name,
-				};
-			dataGrid.ItemsSource = result;
+					Destination = ticket.City1.Name,
+					DateDeparture = ticket.Date1,
+					DateArrival = ticket.Date2,
+					ticket.Price,
+					ticket.Class,
+					};
+		dataGrid.ItemsSource = result;
+		
 		}
 		}
 }
